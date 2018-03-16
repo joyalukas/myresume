@@ -1,0 +1,15 @@
+{
+	"basis":{
+	"objective":"myWant fun, stimulating job that pays me in tacos and a mountain of money every month. Oh, and fifty days of paid vacation. And a gym membership. Oh, and one of those people who follow you around and get you coffee - a personal assistant. Yes, one of those"
+	},
+	"education":[
+	{
+"degree":"b.tech(computer science of engineering)","college":"k.l.m college","data":["2015-19","63%"]
+},
+{
+"degree":"intermediate(m.p.c)","college":"narayana junior college","data":["2013-15","92%"]
+},
+"degree":"s.s.c","school":"navodaya model school","data",:["2013","83%"]
+}
+]
+}
